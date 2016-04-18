@@ -1,0 +1,27 @@
+{
+  "name": "node-express-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkgittt/node-express-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkgittt/node-express-practice/issues"
+  },
+  "homepage": "https://github.com/hkgittt/node-express-practice#readme",
+  "devDependencies": {
+    "babel-eslint": "^6.0.2",
+    "eslint": "^2.8.0",
+    "eslint-plugin-react": "^5.0.0"
+  },
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
